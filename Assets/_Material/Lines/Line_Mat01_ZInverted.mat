@@ -138,8 +138,8 @@ Material:
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
-    - _Gradient_Height_01: 8.9
-    - _Gradient_Height_02: -6.7
+    - _Gradient_Height_01: -100
+    - _Gradient_Height_02: -1.9
     - _Gradient_Height_03: 0
     - _GradinatPower: 4
     - _GradinatPower2: 0.6

@@ -137,8 +137,8 @@ Material:
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
-    - _Gradient_Height_01: 8.9
-    - _Gradient_Height_02: 19.8
+    - _Gradient_Height_01: -100
+    - _Gradient_Height_02: -1.9
     - _Gradient_Height_03: 0
     - _GradinatPower: 4
     - _GradinatPower2: 0.6
@@ -170,9 +170,9 @@ Material:
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _Color_01: {r: 1, g: 0.19339621, b: 0.19339621, a: 1}
-    - _Color_02: {r: 0, g: 0.8668444, b: 1, a: 1}
-    - _Color_03: {r: 0.25943398, g: 1, b: 0.36572045, a: 1}
+    - _Color_01: {r: 1, g: 0.99115413, b: 0.19215685, a: 1}
+    - _Color_02: {r: 0, g: 1, b: 0.8585174, a: 1}
+    - _Color_03: {r: 1, g: 0.20497641, b: 0, a: 1}
     - _Edge_Color: {r: 89.45409, g: 35.5943, b: 12.645342, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _Emission_Color: {r: 1, g: 1, b: 1, a: 1}
